@@ -36,7 +36,7 @@ main()
 # --- Receipt Header ---
 print("========================================\n       GAS STATION RECEIPT\n      Thank you for shopping!/n ========================================/n
 
-
+ 
 
 # --- Candy Bars ---
 # Price: $1.89 each (float price, int quantity)
