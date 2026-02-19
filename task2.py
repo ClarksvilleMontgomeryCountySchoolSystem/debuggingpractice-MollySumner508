@@ -34,7 +34,7 @@ main()
 
 
 # --- Receipt Header ---
-print("========================================\n       GAS STATION RECEIPT\n      Thank you for shopping!/n ========================================/n
+#print("========================================\n       GAS STATION RECEIPT\n      Thank you for shopping!/n ========================================/n
 
  
 
